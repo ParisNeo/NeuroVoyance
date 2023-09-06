@@ -26,4 +26,4 @@ Decentralization in AI is not about dismantling existing structures but about en
 
 NeuroVoyance, along with the broader decentralization movement, offers an exciting opportunity to build a more inclusive, community-driven, and transparent future in AI. It is a valuable addition to the AI ecosystem that complements the incredible advancements achieved by corporations. By working together and embracing open source principles, as demonstrated by NeuroVoyance, we can ensure that the benefits of AI reach a broader audience, fostering innovation and positive change in the AI landscape.
 
-<h3>For more information and to get involved, visit the [NeuroVoyance GitHub repository](https://github.com/ParisNeo/NeuroVoyance).</h3>
+For more information and to get involved, visit the [NeuroVoyance GitHub repository](https://github.com/ParisNeo/NeuroVoyance).
