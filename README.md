@@ -1,5 +1,5 @@
 <img src="https://github.com/ParisNeo/NeuroVoyance/assets/827993/796a5b65-e409-4ff4-a026-2ce9eb1ed0df" width="205px" height="205px"><h1>NeuroVoyance</h1>
-<b><font color="#29ABE2">Neuro</font color>Voyance: Advancing AI Through Decentralization</b>
+<b>>NeuroVoyance: Advancing AI Through Decentralization</b>
 
 <b>Overview</b>
 
