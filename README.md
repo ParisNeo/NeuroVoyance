@@ -4,7 +4,7 @@
 
 **Overview**
 
-NeuroVoyance is an innovative approach to AI development that embraces decentralization as a means to complement and enhance the existing AI ecosystem. In this README, we discuss the benefits of decentralization and how NeuroVoyance contributes to this evolving landscape.
+<span style="color:#29ABE2">Neuro</span>Voyance is an innovative approach to AI development that embraces decentralization as a means to complement and enhance the existing AI ecosystem. In this README, we discuss the benefits of decentralization and how NeuroVoyance contributes to this evolving landscape.
 
 **Decentralization: A Collaborative Approach**
 
