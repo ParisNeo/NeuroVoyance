@@ -34,4 +34,6 @@ NeuroVoyance, along with the broader decentralization movement, offers an exciti
 
 
 <h3>Current project status</h3>
+
 ![](https://github.com/ParisNeo/NeuroVoyance/blob/main/concepts/Roadmap.svg)
+
