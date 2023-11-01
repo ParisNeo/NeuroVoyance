@@ -19,9 +19,9 @@ To achieve these objectives, the Neurovoyance project will be structured around 
    - These nodes will contain value as they can perform work.
    - Users will connect to a peer-to-peer network.
 
-2. Hive Mind:
+2. Swarm:
    - The peer-to-peer network will act as a decentralized entity for resource allocation and task distribution.
-   - The governance of the Hive Mind will be decentralized, with decision-making processes based on voting by stakeholders.
+   - The governance of the Swarm will be decentralized, with decision-making processes based on voting by stakeholders.
    - The objective is to develop a system that benefits the community and has protection mechanisms against huge speculation and cashout.
 
 3. Clients:
@@ -49,7 +49,7 @@ The Neurovoyance project recognizes the importance of open sourcing the tool. By
 The roadmap for the Neurovoyance project is as follows:
 
 1. Attract skilled open-source developers to contribute to the project and enhance the functionality and features of the system.
-2. Develop and refine the Hive Mind, ensuring seamless resource allocation and task distribution.
+2. Develop and refine the Swarm, ensuring seamless resource allocation and task distribution.
 3. Implement the reward system, incorporating protection mechanisms against excessive speculation and cashout.
 4. Test and optimize the system's performance and scalability.
 5. Establish partnerships with AI companies and organizations to encourage adoption and utilization of the decentralized AI inference and training system.
