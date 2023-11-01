@@ -54,4 +54,5 @@ The roadmap for the Neurovoyance project is as follows:
 
 By following this roadmap, the Neurovoyance project aims to create a robust and sustainable decentralized AI inference and training system that benefits the community and drives advancements in AI technology.
 
-If you have any further instructions or updates, please let me know, and I'll make the necessary adjustments to the README.md file.
+## Current project status
+![](Project steps and roadmaps.png)
