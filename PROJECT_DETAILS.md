@@ -38,7 +38,7 @@ To achieve these objectives, the Neurovoyance project will be structured around 
 
 ### Diagram
 
-![](concepts/NeuroVoyance Diagram.svg)
+![](./concepts/NeuroVoyance Diagram.svg)
 
 ## Importance of Open Sourcing
 
@@ -59,4 +59,4 @@ The roadmap for the Neurovoyance project is as follows:
 By following this roadmap, the Neurovoyance project aims to create a robust and sustainable decentralized AI inference and training system that benefits the community and drives advancements in AI technology.
 
 ## Current project status
-![](concepts/Project steps and roadmaps.png)
+![](./concepts/Project steps and roadmaps.png)
