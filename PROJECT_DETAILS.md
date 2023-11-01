@@ -36,6 +36,10 @@ To achieve these objectives, the Neurovoyance project will be structured around 
    - Bootstrap nodes will be used to initialize and maintain the peer-to-peer network.
    - They will help in the discovery and connection of user nodes.
 
+### Diagram
+
+![](NeuroVoyance Diagram.png)
+
 ## Importance of Open Sourcing
 
 The Neurovoyance project recognizes the importance of open sourcing the tool. By making the system open source, it allows for transparency, collaboration, and the involvement of skilled open-source developers. The decentralized governance between stakeholders ensures that all decisions are taken by voting, promoting a fair and inclusive environment.
