@@ -38,7 +38,7 @@ To achieve these objectives, the Neurovoyance project will be structured around 
 
 ### Diagram
 
-![](NeuroVoyance Diagram.png)
+![](NeuroVoyance Diagram.svg)
 
 ## Importance of Open Sourcing
 
