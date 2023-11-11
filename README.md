@@ -42,7 +42,9 @@ NeuroVoyance, along with the broader decentralization movement, offers an exciti
 
 ![](https://github.com/ParisNeo/NeuroVoyance/blob/main/concepts/NeuroVoyance_Code.svg)
 ![](https://github.com/ParisNeo/NeuroVoyance/blob/main/concepts/NeuroVoyance_Publish.svg)
-
+![](https://github.com/ParisNeo/NeuroVoyance/blob/main/concepts/NeuroVoyance_Sheetsuite.svg)
+![](https://github.com/ParisNeo/NeuroVoyance/blob/main/concepts/NeuroVoyance_Video.svg)
+![](https://github.com/ParisNeo/NeuroVoyance/blob/main/concepts/NeuroVoyance_Create.svg)
 
 
 
